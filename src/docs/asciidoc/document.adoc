@@ -1,0 +1,5 @@
+= Document
+
+And now, a butterfly!
+
+image::butterfly.png[]
